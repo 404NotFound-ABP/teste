@@ -1,4 +1,4 @@
-# Portal [..] - ABP2
+# Portal Atendimento  - ABP2
 
 <p align="center">
   <img src="https://github.com/404NotFound-ABP/AgriRSLAB_Portal/blob/76a8c62e6c347c423505e24162cd9b520b5d316c/imagens/1.1Imagens%20Git/logo_404notfound.png"
@@ -57,10 +57,6 @@ Todas as entregas serão realizadas conforme os prazos acordados com o cliente. 
 
 
 # *Sprint 3 – :*
-
-[↑ Voltar ao topo](#topo)
-
-
 
 [↑ Voltar ao topo](#topo)
 
@@ -201,7 +197,7 @@ Cada item abaixo relaciona a user story ao requisito funcional correspondente e 
 
 # Backlog Tecnico e de Entrega
 
-Itens de sustentacao tecnica e academica que garantem aderencia as restricoes, aos requisitos nao funcionais e ao formato de entrega pedido no desafio.
+Itens de sustentacao tecnica e academica que garantem aderencia as restricoes e aos requisitos nao funcionais.
 
 ### BT01 • Modelar o banco PostgreSQL e o repositorio de conhecimento com DDL e DML explicitos.
 
@@ -484,10 +480,20 @@ Organizadas por area do produto, seguida da estrutura Como / Quero / Para.
 [↑ Voltar ao topo](#topo)
 
 <a id="tecnologias"></a>
-# Tecnologias Ultlizadas
+# Tecnologias Ultlizadas:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="40" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="40" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="40" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="40" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-0B5FFF?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" height="40" />
+</p>
 
 
 <a id="equipe"></a>
+
 # Nossa Equipe 👩‍💻
 
 A equipe **404 Not Found** é constituída de alunos do segundo semestre do curso de Desenvolvimento de Software Multiplataforma.
