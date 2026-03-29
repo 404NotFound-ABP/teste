@@ -1,8 +1,4 @@
-# Anexo - Definition of Done (DoD)
-
-> Projeto: Aplicacao Web para Autoatendimento da Secretaria Academica da Fatec Jacarei
-
-> Documento gerado em 29/03/2026
+# Definition of Done (DoD)
 
 ## Como usar este anexo
 
@@ -39,8 +35,3 @@ Este anexo resume o que caracteriza a conclusao de cada item do backlog. Ele ser
 | BT06 | ![Prioridade Alta](https://img.shields.io/badge/Prioridade-Alta-red) | Usar JWT com expiracao, armazenar senhas com hash seguro e evitar exposicao de dados sensiveis nas respostas da API. |
 | BT07 | ![Prioridade Media](https://img.shields.io/badge/Prioridade-Media-yellow) | Executar validacao de desempenho nos fluxos principais e registrar que o tempo de resposta ficou adequado ao uso interativo do sistema. |
 
-## Regra de uso
-
-- Concluir o desenvolvimento nao significa Done; o comportamento final precisa estar funcional e coerente com o desafio.
-- Itens que envolvem autenticacao, controle de acesso ou dados sensiveis exigem validacao tecnica de seguranca.
-- Uma entrega so deve ser considerada concluida quando puder ser demonstrada e validada pela PO.
