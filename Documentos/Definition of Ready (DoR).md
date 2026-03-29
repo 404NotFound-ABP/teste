@@ -1,8 +1,5 @@
-# Anexo - Definition of Ready (DoR)
+# Definition of Ready (DoR)
 
-> Projeto: Aplicacao Web para Autoatendimento da Secretaria Academica da Fatec Jacarei
-
-> Documento gerado em 29/03/2026
 
 ## Como usar este anexo
 
@@ -39,8 +36,4 @@ Este anexo consolida, em formato de consulta rapida, o que deve estar pronto ant
 | BT06 | ![Prioridade Alta](https://img.shields.io/badge/Prioridade-Alta-red) | Chaves sensiveis separadas em ambiente, biblioteca de hash definida e politica de expiracao acordada. |
 | BT07 | ![Prioridade Media](https://img.shields.io/badge/Prioridade-Media-yellow) | Cenarios criticos de consulta definidos, pontos de medicao escolhidos e massa de dados minima disponivel para testes. |
 
-## Regra de uso
 
-- Se o DoR do item nao estiver atendido, ele deve voltar para refinamento antes de entrar em desenvolvimento.
-- A PO valida prioridade, clareza do objetivo e aderencia ao desafio antes da sprint.
-- A equipe valida dependencias tecnicas, dados necessarios e seguranca antes de iniciar a implementacao.
